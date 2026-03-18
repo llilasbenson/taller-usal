@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "b8c6c085-c812-4abb-974f-12c142932064",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-03-18T16:01:47.798Z",
   "created_by": "llilasbenson",
   "title": "Memoria Abierta ",
   "slug": "memoria-abierta",
-  "updated_at": "2026-03-18T16:01:47.798Z",
+  "updated_at": "2026-03-18T16:07:45.877Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "b8c6c085-c812-4abb-974f-12c142932064"
   }
