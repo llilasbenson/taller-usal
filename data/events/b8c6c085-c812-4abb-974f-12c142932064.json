@@ -1,0 +1,35 @@
+{
+  "audiovisual_files": {
+    "f3f8ec32-5017-4b0f-b2c8-815782e2544e": {
+      "label": "Memoria Abierta ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/zyqup861oz4yyxsfm74toe7xhzq2b4wi.mp4",
+      "duration": 4023,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "Memoria Abierta",
+  "label": "Memoria Abierta ",
+  "av_file_order": [
+    "f3f8ec32-5017-4b0f-b2c8-815782e2544e"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
+  "created_at": "2026-03-18T16:01:47.531Z",
+  "created_by": "llilasbenson",
+  "updated_at": "2026-03-18T16:01:47.531Z",
+  "updated_by": "llilasbenson"
+}
